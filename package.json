@@ -1,0 +1,35 @@
+{
+  "name": "birdsaintreal",
+  "version": "4.0",
+  "description": "Birds aren't real, and we need people to know that!",
+  "main": "pages/index.js",
+  "repository": "https://github.com/DeBebbie/birdsaintreal.git",
+  "author": "BeBebbie debebbie@proton.me",
+  "license": "GLT",
+  "private": false,
+  "dependencies": {
+    "@emotion/css": "^11.10.6",
+    "@emotion/react": "^11.10.6",
+    "@emotion/server": "^11.10.0",
+    "@emotion/styled": "^11.10.6",
+    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "@fortawesome/free-brands-svg-icons": "^6.5.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@headlessui/react": "^1.7.14",
+    "@heroicons/react": "^2.0.17",
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "font-awesome": "^4.7.0",
+    "next": "^13.3.1",
+    "next-themes": "^0.2.1",
+    "react": "^18",
+    "react-apexcharts": "^1.4.1",
+    "react-dom": "^18",
+    "react-hook-form": "^7.43.9"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "eslint-config-prettier": "^8.8.0",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.1"
+  }
+}
